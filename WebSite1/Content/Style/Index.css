@@ -1,0 +1,46 @@
+﻿.Main{
+
+
+}
+.Header{
+    border :1px solid black;
+    background-color:burlywood;
+    height:150px;
+
+
+}
+.Navigation_bar {
+    border: 1px solid black;
+    background-color:aqua;
+    height: 50px;
+}
+.Side_panel {
+    border: 1px solid black;
+    background-color:antiquewhite;
+    height: 550px;
+    width:20%;
+    float:left;
+}
+
+
+
+
+
+.Body {
+    border: 1px solid black;
+    background-color:brown;
+    height: 550px;
+    width:78%;
+    float:right;
+}
+.Clear{
+
+    clear:both;
+}
+
+
+.footer {
+    border: 1px solid black;
+    background-color:indigo;
+    height: 200px;
+}
